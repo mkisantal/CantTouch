@@ -1,4 +1,11 @@
-# YOLO with Core ML and MPSNNGraph
+# CantTouch - Object detector to catch when you touch your face
+
+Covid-19 is raging. You are not supposed to tuch your face, but it's difficult to keep yourself from doing so. This application helps you, by warning every time you touch your face. Also, it coaches you by tracking your face touching behavior and showing stats.
+
+
+
+
+#ORIGINAL REPO: YOLO with Core ML and MPSNNGraph
 
 This is the source code for my blog post [YOLO: Core ML versus MPSNNGraph](http://machinethink.net/blog/yolo-coreml-versus-mps-graph/).
 
